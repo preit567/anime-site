@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Top 10 Anime Movies to Watch</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f9f9f9;
+      padding: 20px;
+      color: #222;
+    }
+    h1 {
+      text-align: center;
+      margin-bottom: 30px;
+    }
+    .movie {
+      display: flex;
+      margin-bottom: 25px;
+      background: #fff;
+      padding: 15px;
+      border-radius: 10px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    }
+    .movie img {
+      width: 120px;
+      height: auto;
+      border-radius: 8px;
+      margin-right: 15px;
+    }
+    .movie-info h2 {
+      margin: 0;
+      font-size: 20px;
+      color: #333;
+    }
+    .movie-info p {
+      margin: 6px 0;
+      color: #555;
+    }
+    .platform {
+      margin-top: 5px;
+      font-weight: bold;
+      color: #2c7;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>🎥 Top 10 Anime Movies You Must Watch</h1>
+
+  <div class="movie">
+    <img src="URL_HERE" alt="10. A Silent Voice">
+    <div class="movie-info">
+      <h2>10. A Silent Voice (2016)</h2>
+      <p>A deeply emotional story about bullying, redemption, and forgiveness. A former bully tries to make amends with a deaf girl he once tormented.</p>
+      <p class="platform">Watch on: Netflix, Prime Video</p>
+    </div>
+  </div>
+
+  <div class="movie">
+    <img src="URL_HERE" alt="9. Weathering With You">
+    <div class="movie-info">
+      <h2>9. Weathering With You (2019)</h2>
+      <p>A runaway teenager meets a girl who can control the weather. A beautiful love story wrapped in climate mystery and Makoto Shinkai’s visuals.</p>
+      <p class="platform">Watch on: Netflix, Crunchyroll</p>
+    </div>
+  </div>
+
+  <div class="movie">
+    <img src="URL_HERE" alt="8. My Neighbor Totoro">
+    <div class="movie-info">
+      <h2>8. My Neighbor Totoro (1988)</h2>
+      <p>A heartwarming Studio Ghibli classic about childhood wonder and the forest spirit Totoro. Pure comfort and nostalgia.</p>
+      <p class="platform">Watch on: Netflix, HBO Max</p>
+    </div>
+  </div>
+
+  <div class="movie">
+    <img src="URL_HERE" alt="7. Paprika">
+    <div class="movie-info">
+      <h2>7. Paprika (2006)</h2>
+      <p>A sci-fi psychological thriller where dreams can be accessed through technology. A wild ride that inspired Nolan’s Inception.</p>
+      <p class="platform">Watch on: Prime Video, Tubi</p>
+    </div>
+  </div>
+
+  <div class="movie">
+    <img src="URL_HERE" alt="6. Grave of the Fireflies">
+    <div class="movie-info">
+      <h2>6. Grave of the Fireflies (1988)</h2>
+      <p>A devastating tale of two siblings trying to survive after WWII in Japan. One of the most emotional war movies ever made.</p>
+      <p class="platform">Watch on: Crunchyroll, Prime Video</p>
+    </div>
+  </div>
+
+  <div class="movie">
+    <img src="URL_HERE" alt="5. Princess Mononoke">
+    <div class="movie-info">
+      <h2>5. Princess Mononoke (1997)</h2>
+      <p>Humans vs nature in this epic fantasy from Hayao Miyazaki. With gods, demons, and a strong message on environmental balance.</p>
+      <p class="platform">Watch on: Netflix, HBO Max</p>
+    </div>
+  </div>
+
+  <div class="movie">
+    <img src="URL_HERE" alt="4. Howl’s Moving Castle">
+    <div class="movie-info">
+      <h2>4. Howl’s Moving Castle (2004)</h2>
+      <p>A young woman cursed with an old body finds hope and love in the magical moving castle of the mysterious wizard Howl.</p>
+      <p class="platform">Watch on: Netflix, HBO Max</p>
+    </div>
+  </div>
+
+  <div class="movie">
+    <img src="URL_HERE" alt="3. Akira">
+    <div class="movie-info">
+      <h2>3. Akira (1988)</h2>
+      <p>A cyberpunk masterpiece set in Neo-Tokyo. Explosive visuals and social commentary that defined the anime genre globally.</p>
+      <p class="platform">Watch on: Crunchyroll, Prime Video</p>
+    </div>
+  </div>
+
+  <div class="movie">
+    <img src="URL_HERE" alt="2. Your Name">
+    <div class="movie-info">
+      <h2>2. Your Name (2016)</h2>
+      <p>A romantic sci-fi tale of two strangers who switch bodies across time. Stunning animation and a powerful emotional punch.</p>
+      <p class="platform">Watch on: Netflix, Crunchyroll</p>
+    </div>
+  </div>
+
+  <div class="movie">
+    <img src="URL_HERE" alt="1. Spirited Away">
+    <div class="movie-info">
+      <h2>1. Spirited Away (2001)</h2>
+      <p>A masterpiece by Hayao Miyazaki where a young girl enters a magical world of spirits. Won the Academy Award for Best Animated Feature.</p>
+      <p class="platform">Watch on: Netflix, HBO Max</p>
+    </div>
+  </div>
+
+</body>
+</html>
